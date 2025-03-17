@@ -21,8 +21,8 @@
 <h2>Tecnologias Usadas 🔨</h2>
 
 ### HTML
-###  <img align="center" src="./assets/icons8-html-48.png">
+![HTML](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-html-48.png)
 
-
+### CSS
 ### <img align="center" src="./assets/icons8-css-48.png">
 ### <img align="center" src="./assets/icons8-javascript-48.png">
