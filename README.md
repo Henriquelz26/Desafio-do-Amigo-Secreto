@@ -2,7 +2,7 @@
 <h3>Este projeto se trata de um jogo onde você pode adicionar todos os seus amigos à uma lista e sortear-los para descobrir quem será o seu amigo secreto. </h3>
 
 <h2>Como Jogar 👾</h2>
-<h3><b>Você poserá acessar a página clicando [aqui](https://github.com/Henriquelz26/TutorialJavaScript.git)</b><br> </h3>
+<h3><b>Você poserá acessar a página clicando no [link](desafio-do-amigo-secreto-op2tqpsfc-henriquelz26s-projects.vercel.app) </b><br> </h3>
 
 * #### Primeiramente você deve digitar os nomes dos seus amigos na caixinha branca.<br>
  ![PagInicial]([https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-html-48.png](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/PaginaInicialSeta.PNG))
