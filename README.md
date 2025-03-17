@@ -1,4 +1,4 @@
-<h1 align="center">Desafio do Jogo do Amigo Secreto</h1>
+<h1 align="center">Jogo do Amigo Secreto</h1>
 <h3>Este projeto se trata de um jogo onde você pode adicionar todos os seus amigos à uma lista e sortear-los para descobrir quem será o seu amigo secreto. </h3>
 
 <h2>Como Jogar 👾</h2>
