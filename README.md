@@ -20,7 +20,7 @@
 
 <h2>Tecnologias Usadas 🔨</h2>
 
-* HTML
+* HTML <br>
 ![HTML](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-html-48.png)
 
 ### CSS
