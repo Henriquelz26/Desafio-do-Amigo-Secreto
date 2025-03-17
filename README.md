@@ -23,6 +23,7 @@
 * HTML <br>
 ![HTML](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-html-48.png)
 
-### CSS
-### <img align="center" src="./assets/icons8-css-48.png">
-### <img align="center" src="./assets/icons8-javascript-48.png">
+* CSS <br>
+![CSS](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-css-48.png)
+* JavaScript <br>
+![JavaScript](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-javascript-48.png)
