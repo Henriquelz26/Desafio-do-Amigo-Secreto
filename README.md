@@ -4,7 +4,7 @@
 <h2>Como Jogar 👾</h2>
 <h3><b>Você poserá acessar a página pelo link:</b><br> desafio-do-amigo-secreto-five.vercel.app</h3>
 
-* <h4> Primeiramente você deve digitar os nomes dos seus amigos na caixinha branca.</h4>
+* #### Primeiramente você deve digitar os nomes dos seus amigos na caixinha branca.<br>
  ![PagInicial]([https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/icons8-html-48.png](https://github.com/Henriquelz26/Desafio-do-Amigo-Secreto/blob/main/assets/PaginaInicialSeta.PNG))
 
 
